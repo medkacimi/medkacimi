@@ -1,48 +1,114 @@
-# étudiant en Licence Informatique numérique et gestion industrielle (INGI)
+<div align="center">
 
+# Mohamed KACIMI
+### Développeur Web Full Stack | Étudiant en Informatique Numérique
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-kacimi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medkacimi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meddkacimi@gmail.com)
 
+</div>
 
+## À Propos de Moi 👨‍💻
 
-### 🎓 Formation
+Passionné par le développement web et la transformation numérique, je suis actuellement étudiant en Licence Informatique Numérique et Gestion Industrielle (INGI) à l'IAE Savoie Mont Blanc. Mon parcours académique diversifié, alliant informatique et gestion, me permet d'apporter une perspective unique aux projets techniques.
 
-- Licence Informatique numérique et gestion industrielle (INGI) - IAE Savoie Mont Blanc, Annecy
-- Licence Administration économique et sociale (AES) - Université Savoie Mont Blanc, Chambéry
-- Classes préparatoires économiques et commerciales (ECT) - CPGE Moulay Idriss, Fès
-- Baccalauréat en Sciences Économiques et gestion (SGC) - Lycée Oum Rabiia, M'rirt
+```javascript
+const mohamed = {
+    role: "Développeur Web Full Stack",
+    localisation: "Chambéry, France",
+    formation: "Licence INGI",
+    recherche: "Stage de 2+ mois",
+    passions: ["Développement Web", "Nouvelles Technologies", "Innovation"]
+};
+```
 
-### 💻 Compétences Techniques
+## Technologies & Outils 🛠️
 
-- **Langages et Technologies Web :** HTML, CSS, JavaScript
-- **Outils de Développement :** Frameworks web, Outils de gestion de projet
-- **Logiciels :** Suite Microsoft Office (Excel, Word, PowerPoint)
-- **Gestion de Projet :** Méthodologies Agiles
+<div align="center">
 
-### 🌍 Langues
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- Arabe : Langue maternelle
-- Français : Niveau C1
-- Anglais : Niveau B2
-- Espagnol : Niveau A1
+### Outils de Développement
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 🚀 Projets Principaux
+### Bureautique & Gestion
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-#### Clone YouTube (2023)
-- Développement frontend avec HTML et CSS
-- Implémentation d'une barre de navigation interactive avec système de recherche
-- Création d'un système de grille responsive pour l'affichage des vidéos
+</div>
 
-#### Projets Académiques CPGE (2021-2023)
-- Développement de bases de données relationnelles
-- Implémentation d'algorithmes avec Scilab
-- Gestion de projets en équipe suivant les principes agiles
+## Parcours Académique 🎓
 
-### 📫 Contact
+### IAE Savoie Mont Blanc - Annecy
+- 📌 Licence Informatique Numérique et Gestion Industrielle (INGI)
+- 📅 2024 - Présent
+- 💡 Focus sur l'intégration des technologies numériques dans la gestion industrielle
 
-- 📧 Email : meddkacimi@gmail.com
+### Université Savoie Mont Blanc - Chambéry
+- 📌 Licence Administration Économique et Sociale (AES)
+- 📅 2023 - 2024
+- 💡 Formation en gestion et analyse économique
+
+### CPGE Moulay Idriss - Fès, Maroc
+- 📌 Classes Préparatoires Économiques et Commerciales (ECT)
+- 📅 2021 - 2023
+- 💡 Excellence académique et développement de compétences analytiques
+
+## Projets Phares 🚀
+
+### Clone YouTube
+```python
+project_details = {
+    "année": 2023,
+    "technologies": ["HTML5", "CSS3", "JavaScript"],
+    "réalisations": [
+        "Interface utilisateur responsive",
+        "Système de recherche dynamique",
+        "Grid layout adaptatif"
+    ]
+}
+```
+
+### Projets Académiques CPGE
+- Développement de solutions de bases de données
+- Implémentation d'algorithmes avancés avec Scilab
+- Application des méthodologies agiles en équipe
+
+## Compétences Linguistiques 🌍
+
+```python
+languages = {
+    "Arabe": "Langue maternelle ⭐⭐⭐⭐⭐",
+    "Français": "Niveau C1 ⭐⭐⭐⭐",
+    "Anglais": "Niveau B2 ⭐⭐⭐",
+    "Espagnol": "Niveau A1 ⭐"
+}
+```
+
+## Centres d'Intérêt 🎯
+
+<div align="center">
+
+📚 Lecture | 🎮 Gaming | 💻 Tech Watch | 🏃‍♂️ Sport
+
+</div>
+
+## Contact 📫
+
+- 📧 Email : [meddkacimi@gmail.com](mailto:meddkacimi@gmail.com)
+- 📱 Téléphone : [07 45 00 25 52](tel:+33745002552)
 - 📍 Localisation : Chambéry, France
-- 📱 Téléphone : 07 45 00 25 52
 
-### ⚡ Centres d'Intérêt
-- 📚 Lecture
-- 🎮 Gaming et nouvelles technologies
-- 🏃‍♂️ Sports
+---
+
+<div align="center">
+
+*"La technologie est meilleure quand elle rassemble les gens."*
+
+[![GitHub followers](https://img.shields.io/github/followers/medkacimi?label=Follow&style=social)](https://github.com/medkacimi)
+[![Profile Views](https://komarev.com/ghpvc/?username=medkacimi&color=blue&style=flat)](https://github.com/medkacimi)
+
+</div>
