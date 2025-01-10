@@ -1,8 +1,8 @@
 # Portfolio
 
-## 👨‍💻 Étudiant en Informatique 
 
-Actuellement étudiant en Licence Informatique numérique et gestion industrielle (INGI) à l'IAE Savoie Mont Blanc, je suis passionné par le développement web et la gestion de projets techniques.
+Actuellement étudiant en Licence Informatique numérique et gestion industrielle (INGI) à l'IAE Savoie Mont Blanc, je suis passionné par le développement web et la gestion de projets techniques.---
+*En recherche active d'un stage de 2 mois minimum dans le développement web.*
 
 ### 🎓 Formation
 
