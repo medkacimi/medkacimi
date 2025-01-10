@@ -13,10 +13,10 @@ Passionné par le développement web et la transformation numérique, je suis ac
 
 ```javascript
 const mohamed = {
-    role: "Développeur Web Full Stack",
+    role: "étudiant",
     localisation: "Chambéry, France",
     formation: "Licence INGI",
-    recherche: "Stage de 2+ mois",
+    recherche: "Stage de 2+ mois ou plus",
     passions: ["Développement Web", "Nouvelles Technologies", "Innovation"]
 };
 ```
