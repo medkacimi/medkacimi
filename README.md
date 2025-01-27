@@ -80,9 +80,8 @@ project_details = {
 ```python
 languages = {
     "Arabe": "Langue maternelle ⭐⭐⭐⭐⭐",
-    "Français": "Niveau C1 ⭐⭐⭐⭐",
-    "Anglais": "Niveau B2 ⭐⭐⭐",
-    "Espagnol": "Niveau A1 ⭐"
+    "Français": "Niveau B2 (DELF B2) ⭐⭐⭐⭐",
+    "Anglais": "Niveau B2 (TOEIC en cours)",
 }
 ```
 
